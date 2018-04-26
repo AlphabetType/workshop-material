@@ -17,6 +17,7 @@ This is a subjective collection of resources helpful to (type) design students.
 - [Glyph Nanny](https://github.com/typesupply/glyph-nanny), by Tal Leming
 - [ScalingEditTool](https://github.com/klaavo/scalingEditTool), by Timo Klaavo
 - [showDist](https://github.com/frankrolf/showDist), by Frank Grießhammer
+- [Word-o-mat](https://github.com/ninastoessinger/word-o-mat), by Nina Stössinger
 - [Delorean: Interpolation Preview](https://github.com/cjdunn/RoboFontExtensions), by CJ Dunn
 - [Ground Control](https://github.com/loicsander/Robofont-scripts), by Loïc Sander
 - [DesignSpaceEditor](https://github.com/LettError/designSpaceRoboFontExtension), by Erik van Blokland
@@ -24,8 +25,8 @@ This is a subjective collection of resources helpful to (type) design students.
 
 ## Check your fonts
 ### Language Coverage
+- [Context of Diacritics](http://www.urtd.net/x/cod/), by Ondrej Jób
 - [Underware Latin Plus Validator](http://underware.nl/latin_plus/validate/), by Underware
-- [](), by asdasd
 - [CharSet Checker](https://www.alphabet-type.com/tools/charset-checker/), by Alphabet Type
 ### Glyph Repertoire, OpenType Features
 - [FontDrop](https://fontdrop.info/), by Viktor Nübel
