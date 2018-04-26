@@ -24,7 +24,8 @@ This is a subjective collection of resources helpful to (type) design students.
 - [Unicode Info](https://github.com/jenskutilek/RFUnicodeInfo), by Jens Kutílek
 
 ## Check your fonts
-### Language Coverage
+### Language Coverage and Unicode
+- [Unicode Checker](http://earthlingsoft.net/UnicodeChecker/index.html), by Steffen Kamp & Sven-S. Porst
 - [Context of Diacritics](http://www.urtd.net/x/cod/), by Ondrej Jób
 - [Underware Latin Plus Validator](http://underware.nl/latin_plus/validate/), by Underware
 - [CharSet Checker](https://www.alphabet-type.com/tools/charset-checker/), by Alphabet Type
