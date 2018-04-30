@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Sample page</title>
+</head>
+
+<style>
+    @font-face {
+      font-family: 'Testfont';
+      src: {{ff_line}};
+    }
+    body {
+        font-family: monospace;
+    }
+    .testfont {
+        font-family: 'Testfont';
+    }
+    .sample_line {
+        margin-top: 20px;
+    }
+</style>
+
+<body>
+    <h1>Sample Page for: {{fontfile}}</h1>
+    <section>
+        {{samples}}
+    </section>
+</body>
+</html>
