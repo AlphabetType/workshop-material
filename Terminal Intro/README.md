@@ -13,7 +13,6 @@
 |`open`| Opens a file in it’s standard application. ![open](https://github.com/AlphabetType/workshop-material/raw/master/Terminal%20Intro/Example%20Images/open.png)|
 |`mv`| Moves file; can also be used to rename file. ![mv](https://github.com/AlphabetType/workshop-material/raw/master/Terminal%20Intro/Example%20Images/mv.png)|
 |`ditto`| Copy folder to another destination. ![ditto](https://github.com/AlphabetType/workshop-material/raw/master/Terminal%20Intro/Example%20Images/ditto.png)|
-
 |`date`| Get the current date. You can add [formatting options](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior) as arguments. E.g. `+%Y-%m-%d_%H-%M` ![date](https://github.com/AlphabetType/workshop-material/raw/master/Terminal%20Intro/Example%20Images/date.png)|
 
 ## Navigating the terminal
