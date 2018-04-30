@@ -9,7 +9,7 @@
 |`mkdir`| Creates a directory.|
 |`touch`| Creates a file.|
 |`ls -al`| Displays all files of current directory in a list view.|
-|`open` .| Opens the Finder windows on the current location.|
+|`open .`| Opens the Finder windows on the current location.|
 |`open`| Opens a file in it’s standard application.|
 |`mv`| Moves file; can also be used to rename file.|
 |`ditto`| Copy folder to another destination.|
