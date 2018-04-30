@@ -18,7 +18,7 @@ You can automate and reuse command by writing them into a shell script. You can 
 
 ### backup_fontfiles.sh
 
-```
+```sh
 #!/bin/sh
 # The first line is needed, so the terminal understands what to do with this file
 
