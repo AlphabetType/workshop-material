@@ -11,6 +11,7 @@
 |`ls -al`| Displays all files of current directory in a list view. ![ls](https://github.com/AlphabetType/workshop-material/raw/master/Terminal%20Intro/Example%20Images/ls.png)|
 |`open .`| Opens the Finder windows on the current location.|
 |`open`| Opens a file in it’s standard application. ![open](https://github.com/AlphabetType/workshop-material/raw/master/Terminal%20Intro/Example%20Images/open.png)|
+|`cp`| Copy file to destination; can also be used to duplicate file ![cp](https://github.com/AlphabetType/workshop-material/raw/master/Terminal%20Intro/Example%20Images/cp.png)|
 |`mv`| Moves file; can also be used to rename file. ![mv](https://github.com/AlphabetType/workshop-material/raw/master/Terminal%20Intro/Example%20Images/mv.png)|
 |`ditto`| Copy folder to another destination. ![ditto](https://github.com/AlphabetType/workshop-material/raw/master/Terminal%20Intro/Example%20Images/ditto.png)|
 |`date`| Get the current date. You can add [formatting options](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior) as arguments. E.g. `+%Y-%m-%d_%H-%M` ![date](https://github.com/AlphabetType/workshop-material/raw/master/Terminal%20Intro/Example%20Images/date.png)|
