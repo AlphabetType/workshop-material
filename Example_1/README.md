@@ -14,7 +14,7 @@ This example workflow shows how to create a backup folder of all file with the e
 ![Example image](example1_terminal.png)
 
 ## Shell script
-You can automate and reuse command by writing them into a shell script. You can run in via `sh backup_fontfiles.sh`.
+You can automate and reuse command by writing them into a shell script. Run it with `sh backup_fontfiles.sh`.
 
 ### backup_fontfiles.sh
 
