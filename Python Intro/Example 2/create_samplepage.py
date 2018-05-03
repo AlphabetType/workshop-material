@@ -44,7 +44,8 @@ def get_html_content():
     return html_content
 
 def createSamplepage(targetfolder, fontfile, html_content, sample_lines):
-    print(f'Create sample in "{targetfolder}" for:\t {fontfile}')
+    # Note: You must have Python > 3.6 in order to run this:
+    print(f'Create sample in \"{targetfolder}\" for:\t {fontfile}')
 
     ff_line = get_ff_line(fontfile)
     content  = html_content.replace('{{fontfile}}', fontfile).replace('{{ff_line}}', ff_line).replace('{{samples}}', sample_lines)
