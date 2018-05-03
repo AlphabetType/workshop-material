@@ -1,6 +1,12 @@
 # Workshop Material
 This is a subjective collection of resources helpful to (type) design students.
 
+## Python Intro
+- [Intro to Python](http://www.robofont.com/documentation/building-tools/python/)
+- [Robofont: Building Tools](http://www.robofont.com/documentation/building-tools/)
+- [Drawbot Documentation](http://www.drawbot.com/#drawbot-documentation)
+- [Glyphs Python API](https://docu.glyphsapp.com/)
+
 ## Customize your editor
 ### GlyphsApp
 [Plugin Overview](https://glyphsapp.com/extend) • [Glyphs Extensions](http://glyphsextensions.com/)
