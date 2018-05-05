@@ -2,10 +2,17 @@
 This is a subjective collection of resources helpful to (type) design students.
 
 ## Python Intro
-- [Intro to Python](http://www.robofont.com/documentation/building-tools/python/)
+### General Python
+- [Learn Python](https://www.learnpython.org/)
+- [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
+- [Python 2 to 3](http://python-future.org/compatible_idioms.html)
+### Type Focused
+- [Robofont: Intro to Python](http://www.robofont.com/documentation/building-tools/python/)
 - [Robofont: Building Tools](http://www.robofont.com/documentation/building-tools/)
 - [Drawbot Documentation](http://www.drawbot.com/#drawbot-documentation)
 - [Glyphs Python API](https://docu.glyphsapp.com/)
+- [RoboDocs](http://www.robodocs.info/)
+- [Miniscripts Collection by Nina Stässinger](http://ninastoessinger.com/posted/miniscripts.zip)
 
 ## Customize your editor
 ### GlyphsApp
