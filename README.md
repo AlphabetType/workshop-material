@@ -12,7 +12,7 @@ This is a subjective collection of resources helpful to (type) design students.
 - [Drawbot Documentation](http://www.drawbot.com/#drawbot-documentation)
 - [Glyphs Python API](https://docu.glyphsapp.com/)
 - [RoboDocs](http://www.robodocs.info/)
-- [Miniscripts Collection by Nina Stässinger](http://ninastoessinger.com/posted/miniscripts.zip)
+- [Miniscripts Collection by Nina Stössinger](http://ninastoessinger.com/posted/miniscripts.zip)
 
 ## Customize your editor
 ### GlyphsApp
