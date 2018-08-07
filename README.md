@@ -32,6 +32,7 @@ This is a subjective collection of resources helpful to (type) design students.
 - [showDist](https://github.com/frankrolf/showDist), by Frank Grießhammer
 - [Word-o-mat](https://github.com/ninastoessinger/word-o-mat), by Nina Stössinger
 - [Delorean: Interpolation Preview](https://github.com/cjdunn/RoboFontExtensions), by CJ Dunn
+- [Interpolation Slider](https://github.com/andyclymer/InterpolationSlider-RoboFontExt), by Andy Clymer
 - [Ground Control](https://github.com/loicsander/Robofont-scripts), by Loïc Sander
 - [DesignSpaceEditor](https://github.com/LettError/designSpaceRoboFontExtension), by Erik van Blokland
 - [Unicode Info](https://github.com/jenskutilek/RFUnicodeInfo), by Jens Kutílek
@@ -48,5 +49,6 @@ This is a subjective collection of resources helpful to (type) design students.
 - [Font Testing Page](http://www.cyreal.org/Font-Testing-Page/index.php), originally by Pablo Impallari
 ### Variable Fonts
 - [Axis Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__), by Laurence Penney
+- [Font Playground](https://play.typedetail.com/), by Wenting Zhang
 - [Font Viewer](https://github.com/googlei18n/fontview/releases), by Google
 - [Font Dimensions](https://github.com/w0rm/elm-font-dimensions), by Andrey Kuzmin & Lucas de Groot
