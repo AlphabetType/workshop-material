@@ -52,3 +52,4 @@ This is a subjective collection of resources helpful to (type) design students.
 - [Font Playground](https://play.typedetail.com/), by Wenting Zhang
 - [Font Viewer](https://github.com/googlei18n/fontview/releases), by Google
 - [Font Dimensions](https://github.com/w0rm/elm-font-dimensions), by Andrey Kuzmin & Lucas de Groot
+- [Traversing Designspaces](https://github.com/jo-lang/traversing_designspaces), by Johannes Lang
