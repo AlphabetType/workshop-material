@@ -34,7 +34,7 @@ This is a subjective collection of resources helpful to (type) design students.
 - [Word-o-mat](https://github.com/ninastoessinger/word-o-mat), by Nina Stössinger
 - [Delorean: Interpolation Preview](https://github.com/cjdunn/RoboFontExtensions), by CJ Dunn
 - [Interpolation Slider](https://github.com/andyclymer/InterpolationSlider-RoboFontExt), by Andy Clymer
-- [Ground Control](https://github.com/loicsander/Robofont-scripts), by Loïc Sander
+- [Ground Control](https://github.com/justvanrossum/Robofont-scripts/tree/master/Ground%20Control), by Loïc Sander
 - [DesignSpaceEditor](https://github.com/LettError/designSpaceRoboFontExtension), by Erik van Blokland
 - [Unicode Info](https://github.com/jenskutilek/RFUnicodeInfo), by Jens Kutílek
 
