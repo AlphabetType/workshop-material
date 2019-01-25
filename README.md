@@ -24,9 +24,11 @@ This is a subjective collection of resources helpful to (type) design students.
 - [Red Arrow](https://github.com/jenskutilek/RedArrow-Glyphs), by Jens Kutílek
 - [Synced Tabs](https://github.com/Mark2Mark/Synced-Tabs), by Mark Frömberg
 - [Instance Slider](https://github.com/Tosche/Glyphs-Scripts), by Toshi Omagari
+- [Variable Font Preview](https://markfromberg.com/projects/variable-font-preview/), by Mark Frömberg
 
 ### Robofont
 [Extensions Overview](http://www.robofont.com/documentation/extensions/overview/) • [Mechanic](http://www.robofontmechanic.com/)
+- [Batch](https://github.com/typemytype/batchRoboFontExtension), by Frederick Berlaen
 - [Curve Equalizer](https://github.com/jenskutilek/Curve-Equalizer), by Jens Kutílek
 - [Glyph Nanny](https://github.com/typesupply/glyph-nanny), by Tal Leming
 - [ScalingEditTool](https://github.com/klaavo/scalingEditTool), by Timo Klaavo
@@ -50,6 +52,7 @@ This is a subjective collection of resources helpful to (type) design students.
 - [Font Testing Page](http://www.cyreal.org/Font-Testing-Page/index.php), originally by Pablo Impallari
 ### Variable Fonts
 - [Axis Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__), by Laurence Penney
+- [Font Gauntlet](https://dinamodarkroom.com/), by Dinamo
 - [Font Playground](https://play.typedetail.com/), by Wenting Zhang
 - [Font Viewer](https://github.com/googlei18n/fontview/releases), by Google
 - [Font Dimensions](https://github.com/w0rm/elm-font-dimensions), by Andrey Kuzmin & Lucas de Groot
