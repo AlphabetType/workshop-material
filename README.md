@@ -10,6 +10,7 @@ This is a subjective collection of resources helpful to (type) design students.
 - [Robofont: Intro to Python](http://www.robofont.com/documentation/building-tools/python/)
 - [Robofont: Building Tools](http://www.robofont.com/documentation/building-tools/)
 - [Drawbot Documentation](http://www.drawbot.com/#drawbot-documentation)
+- [Python for Designers](http://pythonfordesigners.com/)
 - [Getting Started With Drawbot](https://learn.adafruit.com/getting-started-with-drawbot)
 - [Glyphs Python API](https://docu.glyphsapp.com/)
 - [RoboDocs](http://www.robodocs.info/)
